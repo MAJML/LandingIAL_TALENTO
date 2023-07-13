@@ -126,8 +126,7 @@
     </div>
 
     <footer>
-        <img src="assets/img/webinar-2.1.jpg" width="100%" alt="">
-        <!-- <div class="contenedor">
+        <div class="contenedor">
             <p class="siguenos_footer">Siguenos en:</p>
             <p class="redes_i">
                 <a href="https://www.facebook.com/ial.oficial/" target="_blank"><i class="fa-brands fa-facebook" style="color: #ffffff;"></i></a>
@@ -136,7 +135,7 @@
                 <a href="https://www.tiktok.com/@ial.oficial?fbclid=IwAR3g0T4ApKykHfYV4rlpg9o3xANoDtLaDF20yeGbTOkDYSRLwUq9Vm0eF-U" target="_blank"><i class="fa-brands fa-tiktok" style="color: #ffffff;"></i></a>
             </p>
             <p class="footer_ultimo">www.ial.edu.pe</p>
-        </div> -->
+        </div>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
