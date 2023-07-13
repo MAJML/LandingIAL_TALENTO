@@ -134,7 +134,6 @@
                 <a href="https://www.youtube.com/institutoarzobispoloayzaialoficial" target="_blank"><i class="fa-brands fa-youtube" style="color: #ffffff;"></i></a>
                 <a href="https://www.tiktok.com/@ial.oficial?fbclid=IwAR3g0T4ApKykHfYV4rlpg9o3xANoDtLaDF20yeGbTOkDYSRLwUq9Vm0eF-U" target="_blank"><i class="fa-brands fa-tiktok" style="color: #ffffff;"></i></a>
             </p>
-            <p class="footer_ultimo">ial.edu.pe</p>
         </div>
     </footer>
 
