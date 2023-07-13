@@ -15,7 +15,7 @@
 </head>
 <body>
 
-    <img src="assets/img/webinar-2.2.jpg" width="100%" alt="">
+    <img src="assets/img/webinar-2.2_glo.jpg" width="100%" alt="">
 
     <div class="contenedor">
 
@@ -54,7 +54,7 @@
                     <div class="input-group">
                         <div class="input-group-text" style="background: #0049AF"><i class="fa-solid fa-location-crosshairs" style="color: #ffffff;"></i></div>
                         <select class="form-select form-select-lg" id="" name="sede" required>
-                            <option value="" hidden>¿Cual es tu Sede?</option>
+                            <option value="" hidden>Sede</option>
                             <option value="Sede Central (Psje. Nueva Rosita N°140)">Sede Central (Psje. Nueva Rosita N°140)</option>
                             <option value="Sede Clínica (Av. Alfonso Ugarte 1061)">Sede Clínica (Av. Alfonso Ugarte 1061)</option>
                             <option value="Sede Arequipa (Av. Arequipa  N° 1473)">Sede Arequipa (Av. Arequipa  N° 1473)</option>
