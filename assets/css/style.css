@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contenedor{
+	padding: 40px 0;
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+	max-width: 1000px;
+}
+.title_registro{
+    text-align: center;
+    font-size:50px;
+    font-weight: 900;
+    color: #0049AF;
+    margin-bottom: 10px;
+}
+.txt_inscripciones{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    color: #00C9FA;
+    margin-bottom: 50px;
+}
+footer{
+    background: rgb(205,94,209);
+    background: radial-gradient(circle, rgba(205,94,209,1) 0%, rgba(72,119,227,1) 100%);
+    color: #fff;
+}
+.siguenos_footer{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+.footer_ultimo{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+}
+.redes_i{
+    text-align: center;
+}
+.redes_i a{
+    margin: 0 10px;
+    font-size: 40px;
+}
+.btn_guardar_form{
+    width: 30%;
+    margin: 0px auto;
+    background: #0049AF;
+    color: #fff;
+}

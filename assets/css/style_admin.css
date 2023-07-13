@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor{
+	padding: 40px 0;
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+	max-width: 1800px;
+}
+.title_admin{
+    width: 100%;
+    font-size: 26px;
+    font-weight: 700;
+    background: #05ff44;
+    color: #fff;
+    text-align: center;
+}
+.p_turno_m{
+    font-weight: 700;
+    border-bottom: 2px solid black;
+}
+
+.p_turno_t{
+    font-weight: 700;
+    border-bottom: 2px solid black;
+}
