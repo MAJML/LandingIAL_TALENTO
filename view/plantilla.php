@@ -19,7 +19,7 @@
 
     <div class="contenedor">
 
-        <p class="title_registro">REGISTRO prueba</p>
+        <p class="title_registro">REGISTRO</p>
         
             <form class="row g-3 needs-validation" method="post" novalidate>
                 <div class="col-md-6">
