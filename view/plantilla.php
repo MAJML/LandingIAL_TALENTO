@@ -26,7 +26,7 @@
                 <div class="col-md-6">
                     <div class="input-group">
                         <div class="input-group-text" style="background: #0049AF"><i class="fa-solid fa-id-card" style="color: #ffffff;"></i></div>
-                        <input type="text" autocomplete="off" id="dni" class="form-control form-control-lg" placeholder="Ingrese su DNI" name="dni" required minlength="8" maxlength="8" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;" >
+                        <input type="text" autocomplete="off" id="dni" class="form-control form-control-lg" placeholder="DNI" name="dni" required minlength="8" maxlength="8" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;" >
                         <div class="invalid-feedback">
                         Ingrese su DNI verdadero
                         </div>
@@ -134,7 +134,7 @@
                 <a href="https://www.youtube.com/institutoarzobispoloayzaialoficial" target="_blank"><i class="fa-brands fa-youtube" style="color: #ffffff;"></i></a>
                 <a href="https://www.tiktok.com/@ial.oficial?fbclid=IwAR3g0T4ApKykHfYV4rlpg9o3xANoDtLaDF20yeGbTOkDYSRLwUq9Vm0eF-U" target="_blank"><i class="fa-brands fa-tiktok" style="color: #ffffff;"></i></a>
             </p>
-            <p class="footer_ultimo">www.ial.edu.pe</p>
+            <p class="footer_ultimo">ial.edu.pe</p>
         </div>
     </footer>
 
